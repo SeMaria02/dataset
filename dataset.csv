@@ -1,6 +1,6 @@
 Retail audit of Drugs and FS in RF: National;;;;;
 "Report Conditions:  Trade Name + Full Pack description (Form, Dosage, Pack):PRESTANCE,EDARBI CLO,VAMLOSET,AMLOD+PERIND.TEVA,TELZAP AM,DALNEVA,PRESTILOL,CONCOR AM,CONCOR,CONCOR HCT,NEBILONG AM,NEBILET,EDARBI AM,EDARBI; ";;;;;
-น;Trade Name + Full Pack description (Form, Dosage, Pack);SKU;MAT/2023/MTH07;MAT/2024/MTH07;MAT/2025/MTH07
+ยน;Trade Name + Full Pack description (Form, Dosage, Pack);SKU;MAT/2023/MTH07;MAT/2024/MTH07;MAT/2025/MTH07
 ;;;Sum RET Price in Russian ruble;Sum RET Price in Russian ruble;Sum RET Price in Russian ruble
 ;;Total Market:;1 562 519 390 206;1 790 271 268 562;2 057 393 958 561
 ;;Total:;19 741 932 811;23 954 574 910;28 473 134 689
@@ -65,3 +65,4 @@ Retail audit of Drugs and FS in RF: National;;;;;
 59;CONCOR HCT F.C.TAB 10MG 6.25MG 30;CONCOR HCT F.C.TAB 10MG 6.25MG 30;0;0;11 778
 60;EDARBI AM TABS 40MG/ 5MG 56;EDARBI AM TABS 40MG/ 5MG 56;0;0;17 252 256
 61;EDARBI AM TABS 40MG/ 10MG 56;EDARBI AM TABS 40MG/ 10MG 56;0;0;7 667 131
+
